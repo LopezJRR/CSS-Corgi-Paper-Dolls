@@ -65,9 +65,6 @@ main {
 .corgi {
   width: 200px;
   height: 200px;
-  position: sticky;
-  top: 0px;
-  left: 0px;
 }
 
 /* position boards */
@@ -154,4 +151,10 @@ main {
     top: -10px;
     width: 40px;
     z-index: 1;
+}
+
+.luna {
+    position: sticky;
+  top: 0px;
+  left: 0px;
 }
